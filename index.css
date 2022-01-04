@@ -77,6 +77,11 @@ p{
     background-repeat: no-repeat;
     background-position: left;
     padding: 10px;
+
+}
+.experience-area h1{
+    text-align: center;
+
 }
 
 #full-stack{
